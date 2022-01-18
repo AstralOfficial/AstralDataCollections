@@ -1,7 +1,6 @@
-# AstralDataCollections
-Astral data collections.
-
-Current Record Count is 1,678,057
+# Astral Data Collections
+### Current Record Count is 1,678,057
+<img src="https://github.com/AstralOfficial/AstralDataCollections/blob/main/scrape_1.png?raw=true">
 
 | Server  | Members Scraped |
 | ------------- | ------------- |
